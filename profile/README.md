@@ -1,6 +1,6 @@
 ## Welcome to SenseiNode 💫
 
-We are an organisation dedicated to driving decentralisation in Latin America. With over $1 Billion in TVL, we are the largest node operator in the region. Our mission is to facilitate the hosting, deployment and management of nodes in multiple jurisdictions, through a network of local hosting providers across Latin America.
+We are a company dedicated to driving decentralisation in Latin America. With over $1 Billion in TVL, we are the largest node operator in the region. Our mission is to facilitate the hosting, deployment and management of nodes in multiple jurisdictions, through a network of local hosting providers across Latin America.
 
 - Docs: see our [documentation](https://docs.senseinode.com/) for more details on how to start contributing.
 
