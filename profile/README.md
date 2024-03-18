@@ -2,11 +2,11 @@
 
 We are an organisation dedicated to driving decentralisation in Latin America. With over $1 Billion in TVL, we are the largest node operator in the region. Our mission is to facilitate the hosting, deployment and management of nodes in multiple jurisdictions, through a network of local hosting providers across Latin America.
 
-📃 Docs: see our [documentation](https://docs.senseinode.com/) for more details on how to start contributing.
+- Docs: see our [documentation](https://docs.senseinode.com/) for more details on how to start contributing.
 
-🔨 Resources: check out our [official website](https://www.senseinode.com/), you will find detailed information about our services, supported protocols and how to contribute. We are also active on social media, so be sure to follow us on [Twitter](https://twitter.com/senseinode) for the latest updates and news.
+- Resources: check out our [official website](https://www.senseinode.com/), you will find detailed information about our services, supported protocols and how to contribute. We are also active on social media, so be sure to follow us on [Twitter](https://twitter.com/senseinode) for the latest updates and news.
 
-🤠 Fun facts: did you know that our team enjoys a wide variety of Latin American breakfasts? From Venezuelan arepas to Argentinean empanadas, our diversity is even reflected in our morning meals!
+- Fun facts: did you know that our team enjoys a wide variety of Latin American breakfasts? From Venezuelan arepas to Argentinean empanadas, our diversity is even reflected in our morning meals!
 
 Connecting the world one node at a time ❤️!
 
