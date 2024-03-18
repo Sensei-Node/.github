@@ -1,5 +1,0 @@
-# SenseiNode
-
-SenseiNode base repository
-
-
