@@ -10,7 +10,7 @@
 
 <p align="center" style="background-color:white">
 <a href="https://twitter.com/senseinode" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter senseinode" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/senseinode/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn senseinode" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/company/senseinode/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn senseinode" height="30" width="30" /></a>
 <a href="https://t.me/senseinodechat" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram senseinodechat" height="30" width="30" /></a>
 <a href="https://medium.com/@SenseiNode" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Medium @SenseiNode" height="30" width="30" /></a>
 </p>
