@@ -6,7 +6,7 @@ We are an organisation dedicated to driving decentralisation in Latin America. W
 
 🔨 Resources: check our [official website](https://www.senseinode.com/). Here you will find detailed information about our services, supported protocols and how to contribute. We are also active on social media, so be sure to follow us on [Twitter](https://twitter.com/senseinode) for the latest updates and news.
 
-🤠 Fun-facts: Did you know that our team enjoys a variety of local Latin American breakfasts? From Venezuelan arepas to Argentinian empanadas, our diversity is even reflected in our morning meals ❤️
+🤠 Fun-facts: Did you know that our team enjoys a variety of local Latin American breakfasts? From Venezuelan arepas to Argentinian empanadas, our diversity is even reflected in our morning meals ❤️!
 
 <p align="center" style="background-color:white">
 <a href="https://twitter.com/senseinode" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter senseinode" height="30" width="30" /></a>
