@@ -16,6 +16,5 @@ Connecting the world one node at a time ❤️!
 <a href="https://t.me/senseinodechat" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram senseinodechat" height="30" width="30" /></a>
 <a href="https://medium.com/@SenseiNode" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Medium @SenseiNode" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCDHWLiqCH3j8CxWiRZ_4rmQ" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube @senseinode1495" height="30" width="30" /></a>
+<a href="https://open.spotify.com/show/1VNEm3s86Kq1L9htrAqNKt" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="Spotify @show/1VNEm3s86Kq1L9htrAqNKt?si=4f5a02c234334355" height="30" width="30" /></a>
 </p>
-
-
