@@ -1,0 +1,2 @@
+# .github
+SenseiNode base repository
